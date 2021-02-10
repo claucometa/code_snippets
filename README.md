@@ -5,6 +5,9 @@
 OneOf
 https://www.youtube.com/watch?v=r7QUivYMS3Q
 
+ValueOf
+https://www.youtube.com/watch?v=h4uldNA1JUE
+
 Docker
 https://www.youtube.com/watch?v=fAtfVu569CY
 
